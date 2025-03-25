@@ -1,6 +1,7 @@
 # Translate manga into English
 
 - Simplied version of [comic-translate](https://github.com/ogkalu2/comic-translate)
+- If the models cannot be downloaded from Hugging Face, extract the files located in the `models` directory.
 
 ### Configuration
 
